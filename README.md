@@ -69,14 +69,6 @@
 </a>
 </p>
 
-<!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<p align=center>
-  <!-- space -->
-  <br /><br /><br /><br /><br />
-  <!-- spaces -->
-
 <!-- show more repos -->
 <h4 align="center">
   <a href="https://github.com/vaibhavshukla267?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
